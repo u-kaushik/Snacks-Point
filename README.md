@@ -30,8 +30,6 @@ The following steps outline the process of developing and testing this Online Fo
 
 ## Output Screenshots
 
-*(Note: When deploying to GitHub, please replace the placeholder links below with actual screenshots of your running application.)*
-
 ### 1. Admin Login Page
 Used to authenticate users and grant access to the admin panel or user menu.
 ![Admin Login](./screenshots/admin-login.png)
